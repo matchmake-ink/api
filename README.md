@@ -1,5 +1,5 @@
-# 🚧 UNDER CONSTRUCTION 🚧
-Check back later for a more detailed readme!
+# Match processor
+This is a script that handles the processing of matches from battlefy, challonge and matchmake.ink submissions. I'm 17 and don't have any money for a vps, so I just run it as a cron job on an old computer.
 
 # Setup
 
