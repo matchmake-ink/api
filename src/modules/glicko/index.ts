@@ -23,7 +23,7 @@ class Team {
 }
 
 // This entire class is copied and pasted from Github Copilot
-class Glicko2 {
+export class Glicko2 {
   readonly SYSTEM_CONSTANT: number = 0.3;
   readonly CONVERGENCE_TOLERANCE: number = 0.000001;
 
